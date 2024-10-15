@@ -35,8 +35,9 @@ nav:
   - Home: /
   - About: /about/
   - Blog: /blog/
-  - サブページ: /subdirectory/page.html  # ここでサブディレクトリへのリンクを指定
-  
+  - 数学ノート: /mathematics_notes/index.html
+  - 数学ノート: /statistics_notes/index.html  # ここでサブディレクトリへのリンクを指定
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
