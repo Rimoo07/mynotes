@@ -30,6 +30,13 @@ github_username:  Rimoo07
 # Build settings
 theme: jekyll-theme-minimal
 
+# Navigation Links
+nav:
+  - Home: /
+  - About: /about/
+  - Blog: /blog/
+  - サブページ: /subdirectory/page.html  # ここでサブディレクトリへのリンクを指定
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
